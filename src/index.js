@@ -8,7 +8,7 @@ const WidgetDivs = document.querySelector('#metu');
 // Inject our React App into each
 ReactDOM.render(
   <React.StrictMode>
-    <App domElement={Div} />
+    <App domElement={WidgetDivs} />
   </React.StrictMode>,
   Div
 );
