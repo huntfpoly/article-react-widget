@@ -2,6 +2,7 @@
   "name": "reddit-widget",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://huntfpoly.github.io/article-react-widget",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -33,6 +34,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^3.2.3",
     "parcel-bundler": "^1.12.4"
   }
 }
